@@ -1,0 +1,13 @@
+name: null
+
+channels:
+  - conda-forge
+  - defaults
+
+dependencies:
+  - pip
+  - jupyter
+
+  - pandas
+  - scikit-learn
+  - seaborn
