@@ -6,8 +6,14 @@ channels:
 
 dependencies:
   - pip
-  - jupyter
+  - ipykernel
+
+  - black
+  - isort
+  - nbqa
 
   - pandas
   - scikit-learn
   - seaborn
+
+  - requests
