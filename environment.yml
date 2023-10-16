@@ -17,3 +17,6 @@ dependencies:
   - seaborn
 
   - requests
+  - flask
+  - fastapi
+  - gunicorn
